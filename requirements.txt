@@ -1,0 +1,7 @@
+babel
+python-dateutil
+flask-moment
+flask-wtf
+Flask-Script
+flask_migrate
+psycopg2
